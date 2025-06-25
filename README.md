@@ -35,7 +35,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Student-Management-System.git
+   git clone https://github.com/keybouzair/Student-Manangement-System
    cd Student-Management-System
    ```
 
